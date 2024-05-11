@@ -1,0 +1,2 @@
+# PL/SQL Practice Repository
+Welcome to the PL/SQL Practice Repository! This repository is designed to provide you with exercises and examples to help you improve your skills in PL/SQL programming. Whether you're a beginner looking to learn the basics or an experienced developer aiming to refine your expertise, you'll find a variety of challenges and resources here to support your learning journey.
