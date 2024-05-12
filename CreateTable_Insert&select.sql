@@ -20,7 +20,7 @@ END;
 DECLARE
 BEGIN
   INSERT INTO CUSTOMERS (ID, NAME, AGE, ADDRESS, SALARY) 
-  VALUES (1, 'Ramesh', 32, 'Ahmedabad', 2000.00);
+  VALUES (1, 'Umair Saad', 21, 'Digri', 200000.00);
 
   DBMS_OUTPUT.PUT_LINE('Row inserted successfully.');
 END;
